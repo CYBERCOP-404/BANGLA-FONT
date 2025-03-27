@@ -1,2 +1,1 @@
-# HIDDEN_PROJECT
-THIS IS FOR ONLY ADMIN 
+<marque>Hello everyone </marque>
